@@ -17,3 +17,8 @@ print("Length:", len(r.text))
 
 with open("forecast1.txt", "w", encoding="utf-8") as f:
     f.write(r.text)
+if r.status_code == 200:
+    with open("forecast1.txt", "w", encoding="utf-8") as f:
+        f.write(r.text)
+else:
+    print("Ошибка NOAA:", r.status_code)
