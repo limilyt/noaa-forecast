@@ -1,6 +1,7 @@
 name: Update NOAA
 on:
  schedule:
+  - cron: '50 21 * * *'
   - cron: '05 12 * * *'
   workflow_dispatch:
 permissions:
