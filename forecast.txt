@@ -1,5 +1,5 @@
 :Product: 3-Day Forecast
-:Issued: 2026 Aug 25 0030 UTC
+:Issued: 2026 Aug 25 1230 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
@@ -12,10 +12,10 @@ Scale levels).
 NOAA Kp index breakdown Aug 25-Aug 27 2026
 
              Aug 25       Aug 26       Aug 27
-00-03UT       2.67         1.67         1.67     
+00-03UT       1.33         1.67         1.67     
 03-06UT       1.67         1.67         1.33     
-06-09UT       1.67         1.67         1.33     
-09-12UT       1.67         1.33         1.67     
+06-09UT       1.33         1.67         1.33     
+09-12UT       1.00         1.33         1.67     
 12-15UT       1.67         0.67         2.33     
 15-18UT       0.67         1.33         2.67     
 18-21UT       0.67         1.67         4.00     
@@ -32,22 +32,22 @@ below S-scale storm level thresholds.
 Solar Radiation Storm Forecast for Aug 25-Aug 27 2026
 
               Aug 25  Aug 26  Aug 27
-S1 or greater   30%     10%     10%
+S1 or greater   10%     10%     10%
 
-Rationale: There is a chance for the greater than 10 MeV proton flux to
-reach S1 (Minor) levels on 25 Aug, with a slight chance for S1 levels on
-26-27 Aug.
+Rationale: A slight chance for S1 (Minor) storms will persist through 27
+Aug given the currently level of activity and potential displayed by
+Region 4513.
 
 C. NOAA Radio Blackout Activity and Forecast
 
-Radio blackouts reaching the R1 levels were observed over the past 24
-hours. The largest was at Aug 24 2026 1936 UTC.
+Radio blackouts reaching the R2 levels were observed over the past 24
+hours. The largest was at Aug 25 2026 1002 UTC.
 
 Radio Blackout Forecast for Aug 25-Aug 27 2026
 
               Aug 25        Aug 26        Aug 27
-R1-R2           45%           45%           45%
+R1-R2           55%           55%           55%
 R3 or greater   10%           10%           10%
 
-Rationale: There is a chance for R1-R2 (Minor-Moderate) radio blackouts,
-and a slight chance for an R3 (Strong) or greater event, over 25-27 Aug.
+Rationale: R1-R2 (Minor-Moderate) radio blackouts are likely through 27
+Aug due to the flare potential currently exhibited by Region 4513.
