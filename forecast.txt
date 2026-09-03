@@ -1,20 +1,20 @@
 :Product: 3-Day Forecast
-:Issued: 2026 Sep 03 0030 UTC
+:Issued: 2026 Sep 03 1230 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
 The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
-The greatest expected 3 hr Kp for Sep 03-Sep 05 2026 is 1.67 (below NOAA
+The greatest expected 3 hr Kp for Sep 03-Sep 05 2026 is 2.33 (below NOAA
 Scale levels).
 
 NOAA Kp index breakdown Sep 03-Sep 05 2026
 
              Sep 03       Sep 04       Sep 05
-00-03UT       1.67         1.33         1.67     
-03-06UT       1.67         1.67         1.33     
-06-09UT       1.33         1.67         1.33     
+00-03UT       2.33         1.33         1.67     
+03-06UT       1.00         1.67         1.33     
+06-09UT       0.67         1.67         1.33     
 09-12UT       0.33         1.33         1.33     
 12-15UT       0.67         1.00         1.33     
 15-18UT       1.33         1.33         1.33     
