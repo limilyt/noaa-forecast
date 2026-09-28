@@ -1,10 +1,10 @@
 :Product: 3-Day Forecast
-:Issued: 2026 Sep 28 0030 UTC
+:Issued: 2026 Sep 28 1230 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 4 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
 Scale levels).
 The greatest expected 3 hr Kp for Sep 28-Sep 30 2026 is 2.00 (below NOAA
 Scale levels).
@@ -12,9 +12,9 @@ Scale levels).
 NOAA Kp index breakdown Sep 28-Sep 30 2026
 
              Sep 28       Sep 29       Sep 30
-00-03UT       1.67         1.67         1.67     
-03-06UT       2.00         2.00         1.67     
-06-09UT       1.67         1.67         1.67     
+00-03UT       0.67         1.67         1.67     
+03-06UT       1.67         2.00         1.67     
+06-09UT       1.00         1.67         1.67     
 09-12UT       1.67         1.00         1.33     
 12-15UT       1.67         1.00         1.33     
 15-18UT       0.67         1.00         1.00     
@@ -45,8 +45,8 @@ No radio blackouts were observed over the past 24 hours.
 Radio Blackout Forecast for Sep 28-Sep 30 2026
 
               Sep 28        Sep 29        Sep 30
-R1-R2           10%            5%            5%
+R1-R2            5%            1%            1%
 R3 or greater    1%            1%            1%
 
-Rationale: There exists a slight chance of R1-R2 (Minor-Moderate) radio
-blackouts on 28 Sep.
+Rationale: No R1 (Minor) or greater radio blackouts are expected.  No
+significant active region flare activity is forecast.
