@@ -1,10 +1,10 @@
 :Product: 3-Day Forecast
-:Issued: 2026 Sep 30 0030 UTC
+:Issued: 2026 Sep 30 1230 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
 
-The greatest observed 3 hr Kp over the past 24 hours was 2 (below NOAA
+The greatest observed 3 hr Kp over the past 24 hours was 1 (below NOAA
 Scale levels).
 The greatest expected 3 hr Kp for Sep 30-Oct 02 2026 is 4.67 (NOAA Scale
 G1).
@@ -12,21 +12,21 @@ G1).
 NOAA Kp index breakdown Sep 30-Oct 02 2026
 
              Sep 30       Oct 01       Oct 02
-00-03UT       1.67         1.67         2.33     
-03-06UT       1.67         1.33         2.67     
-06-09UT       1.67         1.33         2.67     
+00-03UT       1.00         1.67         2.33     
+03-06UT       1.00         1.33         2.67     
+06-09UT       0.33         1.33         2.67     
 09-12UT       1.33         1.33         3.33     
 12-15UT       1.33         1.33         3.67     
 15-18UT       1.00         1.33         4.67 (G1)
 18-21UT       1.00         1.67         4.00     
 21-00UT       1.67         1.67         3.33     
 
-Rationale: G1 (Minor) geomagnetic storming is likely on 02 Oct due to
-glancing effects from a CME that left the Sun on 28 Sep.
+Rationale: G1 (Minor) geomagnetic storms are likely on 02 Oct due to
+anticipated glancing influences from the 28 Sep CME near Earth.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
-Solar radiation, as observed by NOAA GOES-19 over the past 24 hours, was
+Solar radiation, as observed by NOAA GOES-18 over the past 24 hours, was
 below S-scale storm level thresholds.
 
 Solar Radiation Storm Forecast for Sep 30-Oct 02 2026
@@ -45,8 +45,8 @@ No radio blackouts were observed over the past 24 hours.
 Radio Blackout Forecast for Sep 30-Oct 02 2026
 
               Sep 30        Oct 01        Oct 02
-R1-R2           10%           10%           10%
+R1-R2           15%           15%           10%
 R3 or greater    1%            1%            1%
 
-Rationale: A slight chance for R1-R2 (Minor-Moderate) radio blackouts
-due to isolated M-class flare activity will persist through 02 Oct.
+Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
+blackouts through 02 Oct.
