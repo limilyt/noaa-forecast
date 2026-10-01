@@ -1,5 +1,5 @@
 :Product: 3-Day Forecast
-:Issued: 2026 Oct 01 0030 UTC
+:Issued: 2026 Oct 01 1230 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
@@ -12,18 +12,17 @@ G1).
 NOAA Kp index breakdown Oct 01-Oct 03 2026
 
              Oct 01       Oct 02       Oct 03
-00-03UT       1.67         2.33         3.67     
-03-06UT       1.33         2.67         2.00     
-06-09UT       1.33         2.67         2.00     
-09-12UT       1.33         3.33         3.00     
+00-03UT       0.33         2.33         3.67     
+03-06UT       0.33         2.67         2.00     
+06-09UT       0.67         2.67         2.00     
+09-12UT       1.00         3.33         3.00     
 12-15UT       1.33         3.67         3.00     
 15-18UT       1.33         4.67 (G1)    3.33     
 18-21UT       1.67         4.00         3.33     
 21-00UT       1.67         3.33         3.33     
 
-Rationale: G1 (Minor) geomagnetic storming is likely on 02 Oct due to
-glancing CME influences from a filament eruption that left the Sun on 28
-Sep.
+Rationale: G1 (Minor) geomagnetic storms are likely on 02 Oct due to the
+anticipated arrival of 28 Sep CME.
 
 B. NOAA Solar Radiation Activity Observation and Forecast
 
@@ -46,9 +45,8 @@ No radio blackouts were observed over the past 24 hours.
 Radio Blackout Forecast for Oct 01-Oct 03 2026
 
               Oct 01        Oct 02        Oct 03
-R1-R2           15%           15%           15%
+R1-R2           10%           10%           10%
 R3 or greater    1%            1%            1%
 
-Rationale: A slight chance for isolated occurrence of R1-R2
-(Minor-Moderate) radio blackouts due to M-class flare activity will
-persist through 03 Oct.
+Rationale: There is a slight chance for R1-R2 (Minor-Moderate) radio
+blackouts on 01-03 Oct.
