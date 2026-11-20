@@ -1,5 +1,5 @@
 :Product: 3-Day Forecast
-:Issued: 2026 Nov 19 2015 UTC
+:Issued: 2026 Nov 20 0030 UTC
 # Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
 #
 A. NOAA Geomagnetic Activity Observation and Forecast
@@ -32,7 +32,7 @@ below S-scale storm level thresholds.
 Solar Radiation Storm Forecast for Nov 20-Nov 22 2026
 
               Nov 20  Nov 21  Nov 22
-S1 or greater   NA      NA      NA
+S1 or greater    1%      1%      1%
 
 Rationale: No S1 (Minor) or greater solar radiation storms are expected.
 No significant active region activity favorable for radiation storm
@@ -46,8 +46,8 @@ hours. The largest was at 19/1324Z UTC.
 Radio Blackout Forecast for Nov 20-Nov 22 2026
 
               Nov 20        Nov 21        Nov 22
-R1-R2           NA            NA            NA
-R3 or greater   NA            NA            NA
+R1-R2           15%           15%           15%
+R3 or greater    5%            5%            5%
 
-Rationale: No R1 (Minor) or greater radio blackouts are expected. No
-significant active region flare activity is forecast.
+Rationale: There is a slight chance for R1-R2 (Minor-Moderate)radio
+blackouts over 20-22 Nov
